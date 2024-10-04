@@ -41,3 +41,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 "# 30day-day-21-recipe-search" 
 "# 30days-day23-quiz-app" 
 "# 30days-day25-stopwatch" 
+"# 30days-day27-urlshorter" 

@@ -1,17 +1,10 @@
+import UrlShot from "@/components/urlShot"
 
- 
- 
-import CircularShapes from '@/components/circularShapes'
-import StopWatch from '@/components/StopWatch'
- 
- 
 
 const Page = () => {
   return (
     <div>
-       <CircularShapes/>
-   {/* <StopWatch/> */}
-  
+     <UrlShot/>
     </div>
   )
 }
